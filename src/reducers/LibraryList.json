@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "webpack",
+    "description": "the best bundler"
+  },
+  {
+    "id": 1,
+    "title": "es6",
+    "description": "the best js specification"
+  },
+  {
+    "id": 2,
+    "title": "typescript",
+    "description": "better than javascript"
+  },
+]
